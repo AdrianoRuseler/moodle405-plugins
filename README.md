@@ -348,22 +348,6 @@ git submodule add -b master https://github.com/dthies/moodle-atto_fullscreen.git
 git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/editor/atto/plugins/justify
 ```
 
-### OTHERS - REMOVED!
-- https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group
-```bash
-git submodule add -b master https://gitlab.unige.ch/eLearning/moodle/moodle-quiz_group.git mod/quiz/report/group
-```
-
-- https://github.com/vtos/moodle-mod_adaptivequiz
-```bash
-git submodule add -b MOODLE_404 https://github.com/vtos/moodle-mod_adaptivequiz.git mod/adaptivequiz
-```
-
-- https://github.com/reskit/moodle-tiny_c4l
-```bash
-git submodule add -b main https://github.com/reskit/moodle-tiny_c4l.git lib/editor/tiny/plugins/c4l
-```
-
 ## Added to core
 
 - https://github.com/gbateson/moodle-qtype_ordering
