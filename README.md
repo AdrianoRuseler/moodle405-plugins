@@ -27,11 +27,12 @@ echo "Copying config file ..."
 sudo cp $MDLHOME.tmpbkp/config.php $MDLHOME
 
 echo "Remove tmp files..."
+sudo rm -rf $MDLHOME.tmpbkp
 sudo rm -rf /tmp/$MDLPLGS
 sudo rm -rf /tmp/$MDLCORE
 ```
 ## Moodle config.php
-- https://docs.moodle.org/404/en/Configuration_file
+- https://docs.moodle.org/405/en/Configuration_file
 
 ``` php
 // Use the following flag to completely disable the installation of plugins
