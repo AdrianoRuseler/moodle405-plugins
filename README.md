@@ -113,6 +113,7 @@ git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimp
 git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
 cd mod/hvp
 git submodule update --init
+cd ../..
 ```
 - https://github.com/udima-university/moodle-mod_jitsi
 ```bash
