@@ -106,7 +106,3 @@
 	path = moodle/mod/book/tool/wordimport
 	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
 	branch = master
-[submodule "moodle/mod/jitsi"]
-	path = moodle/mod/jitsi
-	url = https://github.com/udima-university/moodle-mod_jitsi.git
-	branch = master
