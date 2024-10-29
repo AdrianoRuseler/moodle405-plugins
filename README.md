@@ -269,7 +269,7 @@ git submodule add -b main https://github.com/bynare/moodle-enrol_auto.git enrol/
 
 - https://github.com/DigiDago/moodle-format_softcourse
 ```bash
-git submodule add -b MOODLE_404_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
+git submodule add -b MOODLE_405_STABLE https://github.com/DigiDago/moodle-format_softcourse.git course/format/softcourse
 ```
 
 - https://bitbucket.org/dw8/moodle-format_tiles
@@ -316,7 +316,7 @@ git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turni
 
 - https://github.com/moodleuulm/moodle-local_sandbox
 ```bash
-git submodule add -b MOODLE_404_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
+git submodule add -b MOODLE_405_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
 ## Wait for it
