@@ -134,6 +134,10 @@ git submodule add -b main https://github.com/bfh/moodle-tiny_fontcolor.git lib/e
 ```bash
 git submodule add -b main https://github.com/dthies/moodle-tiny_preview.git lib/editor/tiny/plugins/preview
 ```
+- https://codeberg.org/linos/moodle-tiny_wordimport
+```bash
+git submodule add -b main https://codeberg.org/linos/moodle-tiny_wordimport.git lib/editor/tiny/plugins/wordimport
+```
 
 ### BLOCK
 
@@ -250,6 +254,11 @@ git submodule add -b main https://github.com/moodlehq/moodle-tool_migratehvp2h5p
 - https://github.com/catalyst/moodle-tool_trigger
 ```bash
 git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-tool_trigger.git admin/tool/trigger
+```
+
+- https://github.com/catalyst/moodle-tool_dynamic_cohorts
+```bash
+git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-tool_dynamic_cohorts.git admin/tool/dynamic_cohorts
 ```
 
 ### ENROL
