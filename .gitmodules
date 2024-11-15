@@ -214,3 +214,7 @@
 	path = moodle/course/format/tiles
 	url = https://bitbucket.org/dw8/moodle-format_tiles.git
 	branch = moodle45
+[submodule "moodle/admin/tool/opcache"]
+	path = moodle/admin/tool/opcache
+	url = https://github.com/moodle-an-hochschulen/moodle-tool_opcache.git
+	branch = MOODLE_405_STABLE
