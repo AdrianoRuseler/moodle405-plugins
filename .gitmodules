@@ -222,3 +222,7 @@
 	path = moodle/mod/hvp
 	url = https://github.com/h5p/h5p-moodle-plugin.git
 	branch = stable
+[submodule "moodle/mod/jitsi"]
+	path = moodle/mod/jitsi
+	url = https://github.com/udima-university/moodle-mod_jitsi.git
+	branch = master
