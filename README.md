@@ -56,7 +56,7 @@ $CFG->preventexecpath = true;
 
 - https://github.com/danmarsden/moodle-mod_attendance/
 ```bash
-git submodule add -b MOODLE_404_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
+git submodule add -b MOODLE_405_STABLE https://github.com/danmarsden/moodle-mod_attendance.git mod/attendance
 ```
 - https://github.com/ndunand/moodle-mod_choicegroup
 ```bash
@@ -281,7 +281,7 @@ git submodule add -b MOODLE_405_STABLE https://github.com/DigiDago/moodle-format
 
 - https://bitbucket.org/dw8/moodle-format_tiles
 ```bash
-git submodule add -b moodle44 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
+git submodule add -b moodle45 https://bitbucket.org/dw8/moodle-format_tiles.git course/format/tiles
 ```
 
 - https://gitlab.com/drlikm/format_etask
