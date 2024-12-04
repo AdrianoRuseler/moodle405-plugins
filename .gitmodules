@@ -206,10 +206,6 @@
 	path = moodle/admin/tool/dynamic_cohorts
 	url = https://github.com/catalyst/moodle-tool_dynamic_cohorts.git
 	branch = MOODLE_404_STABLE
-[submodule "moodle/course/format/tiles"]
-	path = moodle/course/format/tiles
-	url = https://bitbucket.org/dw8/moodle-format_tiles.git
-	branch = moodle45
 [submodule "moodle/admin/tool/opcache"]
 	path = moodle/admin/tool/opcache
 	url = https://github.com/moodle-an-hochschulen/moodle-tool_opcache.git
