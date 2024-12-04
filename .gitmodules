@@ -222,3 +222,7 @@
 	path = moodle/mod/attendance
 	url = https://github.com/danmarsden/moodle-mod_attendance.git
 	branch = MOODLE_405_STABLE
+[submodule "moodle/course/format/tiles"]
+	path = moodle/course/format/tiles
+	url = https://bitbucket.org/dw8/moodle-format_tiles.git
+	branch = moodle45
