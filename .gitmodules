@@ -230,3 +230,7 @@
 	path = moodle/report/coursesize
 	url = https://github.com/catalyst/moodle-report_coursesize.git
 	branch = MOODLE_401_STABLE
+[submodule "moodle/plagiarism/turnitin"]
+	path = moodle/plagiarism/turnitin
+	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
+	branch = develop
