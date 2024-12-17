@@ -230,3 +230,7 @@
 	path = moodle/admin/tool/redis
 	url = https://github.com/moodle-an-hochschulen/moodle-tool_redis.git
 	branch = MOODLE_405_STABLE
+[submodule "moodle/report/coursesize"]
+	path = moodle/report/coursesize
+	url = https://github.com/catalyst/moodle-report_coursesize.git
+	branch = MOODLE_401_STABLE
