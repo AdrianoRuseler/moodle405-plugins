@@ -168,7 +168,7 @@ git submodule add -b MOODLE_405_STABLE https://github.com/remotelearner/moodle-b
 ### REPORT
 - https://github.com/catalyst/moodle-report_coursesize
 ```bash
-git submodule add -b MOODLE_39_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
+git submodule add -b MOODLE_401_STABLE https://github.com/catalyst/moodle-report_coursesize.git report/coursesize
 ```
 
 - https://github.com/mikasmart/moodle-report_benchmark
