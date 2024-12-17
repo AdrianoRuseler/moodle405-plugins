@@ -299,11 +299,6 @@ git submodule add -b FORMAT_ETASK_24_STABLE https://gitlab.com/drlikm/format_eta
 git submodule add -b main https://github.com/gjbarnard/moodle-theme_adaptable.git theme/adaptable
 ```
 
-- https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
-```bash
-git submodule add -b MOODLE_404_STABLE https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
-```
-
 ###   FILTER
 - https://github.com/trampgeek/moodle-filter_ace_inline
 ```bash
@@ -313,7 +308,7 @@ git submodule add -b master https://github.com/trampgeek/moodle-filter_ace_inlin
 
 - https://github.com/turnitin/moodle-plagiarism_turnitin
 ```bash
-git submodule add -b master https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
+git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turnitin.git plagiarism/turnitin
 ```
 
 - https://github.com/turnitin/moodle-plagiarism_turnitinsim
@@ -329,13 +324,12 @@ git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turni
 git submodule add -b MOODLE_405_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
-## Wait for it
+## REMOVED
+
 - https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
 ```bash
 git submodule add -b master https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git theme/boost_union
 ```
-
-## REMOVED
 
 - https://github.com/learnweb/moodle-tool_lifecycle
 ```bash
