@@ -253,10 +253,13 @@ git submodule add -b main https://github.com/moodlehq/moodle-tool_migratehvp2h5p
 ```bash
 git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-tool_trigger.git admin/tool/trigger
 ```
-
 - https://github.com/catalyst/moodle-tool_dynamic_cohorts
 ```bash
 git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-tool_dynamic_cohorts.git admin/tool/dynamic_cohorts
+```
+- https://github.com/moodle-an-hochschulen/moodle-tool_redis
+```bash
+git submodule add -b MOODLE_405_STABLE https://github.com/moodle-an-hochschulen/moodle-tool_redis.git admin/tool/redis
 ```
 
 ### ENROL
