@@ -230,3 +230,7 @@
 	path = moodle/plagiarism/turnitin
 	url = https://github.com/turnitin/moodle-plagiarism_turnitin.git
 	branch = develop
+[submodule "moodle/mod/subcourse"]
+	path = moodle/mod/subcourse
+	url = https://github.com/mudrd8mz/moodle-mod_subcourse.git
+	branch = MOODLE_405_STABLE
