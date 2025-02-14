@@ -178,7 +178,7 @@ git submodule add -b master https://github.com/mikasmart/moodle-report_benchmark
 - https://github.com/catalyst/moodle-report_allbackups
 
 ```bash
-git submodule add -b MOODLE_400_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
+git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-report_allbackups.git report/allbackups
 ```
 
 - https://github.com/moodleou/moodle-report_customsql
