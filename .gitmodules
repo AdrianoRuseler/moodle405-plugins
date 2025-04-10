@@ -234,3 +234,7 @@
 	path = moodle/report/allbackups
 	url = https://github.com/catalyst/moodle-report_allbackups.git
 	branch = MOODLE_404_STABLE
+[submodule "moodle/mod/learningmap"]
+	path = moodle/mod/learningmap
+	url = https://github.com/mebis-lp/mod_learningmap.git
+	branch = master
