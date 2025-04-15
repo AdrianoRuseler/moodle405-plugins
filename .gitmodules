@@ -234,3 +234,7 @@
 	path = moodle/mod/learningmap
 	url = https://github.com/mebis-lp/mod_learningmap.git
 	branch = master
+[submodule "moodle/filter/ace_inline"]
+	path = moodle/filter/ace_inline
+	url = https://github.com/trampgeek/moodle-filter_ace_inline.git
+	branch = main
