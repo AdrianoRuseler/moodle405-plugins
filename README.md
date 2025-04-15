@@ -302,7 +302,7 @@ git submodule add -b main https://github.com/gjbarnard/moodle-theme_adaptable.gi
 ###   FILTER
 - https://github.com/trampgeek/moodle-filter_ace_inline
 ```bash
-git submodule add -b master https://github.com/trampgeek/moodle-filter_ace_inline.git filter/ace_inline
+git submodule add -b main https://github.com/trampgeek/moodle-filter_ace_inline.git filter/ace_inline
 ```
 ### PLAGIARISM
 
