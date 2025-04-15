@@ -154,10 +154,6 @@
 	path = moodle/enrol/auto
 	url = https://github.com/bynare/moodle-enrol_auto.git
 	branch = main
-[submodule "moodle/filter/ace_inline"]
-	path = moodle/filter/ace_inline
-	url = https://github.com/trampgeek/moodle-filter_ace_inline.git
-	branch = master
 [submodule "moodle/plagiarism/turnitinsim"]
 	path = moodle/plagiarism/turnitinsim
 	url = https://github.com/turnitin/moodle-plagiarism_turnitinsim.git
