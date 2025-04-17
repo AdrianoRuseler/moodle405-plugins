@@ -174,10 +174,6 @@
 	path = moodle/local/sandbox
 	url = https://github.com/moodleuulm/moodle-local_sandbox.git
 	branch = MOODLE_405_STABLE
-[submodule "moodle/lib/editor/tiny/plugins/wordimport"]
-	path = moodle/lib/editor/tiny/plugins/wordimport
-	url = https://codeberg.org/linos/moodle-tiny_wordimport.git
-	branch = main
 [submodule "moodle/admin/tool/dynamic_cohorts"]
 	path = moodle/admin/tool/dynamic_cohorts
 	url = https://github.com/catalyst/moodle-tool_dynamic_cohorts.git
