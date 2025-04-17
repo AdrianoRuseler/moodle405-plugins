@@ -90,10 +90,6 @@
 	path = moodle/mod/coursecertificate
 	url = https://github.com/moodleworkplace/moodle-mod_coursecertificate.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/mod/book/tool/wordimport"]
-	path = moodle/mod/book/tool/wordimport
-	url = https://github.com/ecampbell/moodle-booktool_wordimport.git
-	branch = master
 [submodule "moodle/lib/editor/tiny/plugins/cloze"]
 	path = moodle/lib/editor/tiny/plugins/cloze
 	url = https://github.com/srobotta/moodle-tiny_cloze.git
