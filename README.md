@@ -103,10 +103,6 @@ git submodule add -b MOODLE_400_STABLE https://github.com/moodleworkplace/moodle
 ```bash
 git submodule add -b MOODLE_405_STABLE https://github.com/mudrd8mz/moodle-mod_subcourse.git mod/subcourse
 ```
-- https://github.com/ecampbell/moodle-booktool_wordimport
-```bash
-git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
-```
 - https://github.com/h5p/h5p-moodle-plugin
 ```bash
 git submodule add -b stable https://github.com/h5p/h5p-moodle-plugin.git mod/hvp
@@ -338,6 +334,10 @@ git submodule add -b master https://github.com/learnweb/moodle-tool_lifecycle.gi
 - https://github.com/moodleworkplace/moodle-format_wplist
 ```bash
 git submodule add -b master https://github.com/moodleworkplace/moodle-format_wplist.git course/format/wplist
+```
+- https://github.com/ecampbell/moodle-booktool_wordimport
+```bash
+git submodule add -b master https://github.com/ecampbell/moodle-booktool_wordimport.git mod/book/tool/wordimport
 ```
 
 ### ATTO - REMOVED!
