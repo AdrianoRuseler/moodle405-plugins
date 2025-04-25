@@ -10,7 +10,7 @@ sudo add-apt-repository ppa:ondrej/php -y && sudo apt-get update
 PHPVERS='8.3'
 for PHPVER in "${PHPVERS[@]}"; do
 	sudo apt-get install -y php$PHPVER libapache2-mod-php$PHPVER
-	sudo apt-get install -y php$PHPVER-{fpm,curl,zip,intl,xmlrpc,soap,xml,gd,ldap,common,cli,mbstring,mysql,imagick,readline,tidy,redis,memcached,apcu,opcache,mongodb} 
+	sudo apt-get install -y php$PHPVER-{fpm,curl,zip,intl,xmlrpc,soap,xml,gd,ldap,common,cli,mbstring,mysql,imagick,readline,tidy,redis,memcached,apcu,opcache,mongodb,yaml} 
 done
 ```
 ## Config php.ini
