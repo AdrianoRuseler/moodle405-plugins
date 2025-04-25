@@ -246,3 +246,7 @@
 	path = moodle/question/type/stack
 	url = https://github.com/maths/moodle-qtype_stack.git
 	branch = master
+[submodule "moodle/theme/boost_union"]
+	path = moodle/theme/boost_union
+	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git
+	branch = MOODLE_405_STABLE
