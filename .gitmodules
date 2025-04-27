@@ -250,3 +250,7 @@
 	path = moodle/theme/boost_union
 	url = https://github.com/moodle-an-hochschulen/moodle-theme_boost_union.git
 	branch = MOODLE_405_STABLE
+[submodule "moodle/lib/mathjax"]
+	path = moodle/lib/mathjax
+	url = https://github.com/mathjax/MathJax.git
+	branch = master
