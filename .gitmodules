@@ -154,10 +154,6 @@
 	path = moodle/plagiarism/turnitinsim
 	url = https://github.com/turnitin/moodle-plagiarism_turnitinsim.git
 	branch = develop
-[submodule "moodle/theme/adaptable"]
-	path = moodle/theme/adaptable
-	url = https://github.com/gjbarnard/moodle-theme_adaptable.git
-	branch = main
 [submodule "moodle/mod/publication"]
 	path = moodle/mod/publication
 	url = https://github.com/academic-moodle-cooperation/moodle-mod_publication.git
