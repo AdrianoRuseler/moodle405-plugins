@@ -50,10 +50,6 @@
 	path = moodle/admin/tool/certificate
 	url = https://github.com/moodleworkplace/moodle-tool_certificate.git
 	branch = MOODLE_400_STABLE
-[submodule "moodle/admin/tool/coursearchiver"]
-	path = moodle/admin/tool/coursearchiver
-	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
-	branch = master
 [submodule "moodle/admin/tool/trigger"]
 	path = moodle/admin/tool/trigger
 	url = https://github.com/catalyst/moodle-tool_trigger.git
