@@ -250,3 +250,7 @@
 	path = moodle/theme/adaptable
 	url = https://github.com/gjbarnard/moodle-theme_adaptable.git
 	branch = MOODLE_405
+[submodule "moodle/admin/tool/coursearchiver"]
+	path = moodle/admin/tool/coursearchiver
+	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
+	branch = 4.x-4.5-branch
