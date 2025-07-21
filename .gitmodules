@@ -254,3 +254,7 @@
 	path = moodle/admin/tool/coursearchiver
 	url = https://github.com/Syxton/moodle-tool_coursearchiver.git
 	branch = 4.x-4.5-branch
+[submodule "moodle/blocks/quickmail"]
+	path = moodle/blocks/quickmail
+	url = https://github.com/lsuonline/lsuce-block_quickmail.git
+	branch = master
