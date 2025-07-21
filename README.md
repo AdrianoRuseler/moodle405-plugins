@@ -161,6 +161,11 @@ git submodule add -b master https://github.com/donhinkelman/moodle-block_sharing
 git submodule add -b MOODLE_405_STABLE https://github.com/remotelearner/moodle-block_grade_me.git blocks/grade_me
 ```
 
+- https://github.com/lsuonline/lsuce-block_quickmail
+```bash
+git submodule add -b master https://github.com/lsuonline/lsuce-block_quickmail.git blocks/quickmail
+```
+
 ### REPORT
 - https://github.com/catalyst/moodle-report_coursesize
 ```bash
