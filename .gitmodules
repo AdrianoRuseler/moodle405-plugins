@@ -258,3 +258,7 @@
 	path = moodle/blocks/quickmail
 	url = https://github.com/lsuonline/lsuce-block_quickmail.git
 	branch = master
+[submodule "moodle/aavailability/condition/relativedate"]
+	path = moodle/aavailability/condition/relativedate
+	url = https://github.com/ewallah/moodle-availability_relativedate.git
+	branch = main
