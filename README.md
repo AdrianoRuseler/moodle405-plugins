@@ -248,7 +248,7 @@ git submodule add -b 4.x-4.5-branch https://github.com/Syxton/moodle-tool_course
 ```
 - https://github.com/moodlehq/moodle-tool_migratehvp2h5p
 ```bash
-git submodule add -b main https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
+git submodule add -b MOODLE_405_STABLE https://github.com/moodlehq/moodle-tool_migratehvp2h5p.git admin/tool/migratehvp2h5p
 ```
 - https://github.com/catalyst/moodle-tool_trigger
 ```bash
