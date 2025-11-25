@@ -1,5 +1,7 @@
 # moodle405-plugins
 
+[![Update Submodules](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/update-submodules.yml/badge.svg)](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/update-submodules.yml)
+
 ## Moodle Update
 ```bash
 export MDLREPO="https://github.com/moodle/moodle.git"
