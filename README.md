@@ -327,6 +327,13 @@ git submodule add -b develop https://github.com/turnitin/moodle-plagiarism_turni
 git submodule add -b MOODLE_405_STABLE https://github.com/moodleuulm/moodle-local_sandbox.git local/sandbox
 ```
 
+- https://github.com/AdrianoRuseler/moodle-local_accessibility
+- https://github.com/ponlawat-w/moodle-local_accessibility
+
+```bash
+git submodule add -b main https://github.com/AdrianoRuseler/moodle-local_accessibility.git local/accessibility
+```
+
 ## REMOVED
 
 - https://github.com/moodle-an-hochschulen/moodle-theme_boost_union
