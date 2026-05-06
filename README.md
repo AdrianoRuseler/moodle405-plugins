@@ -239,6 +239,28 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_varnumunit.gi
 git submodule add -b main https://github.com/moodleou/moodle-editor_ousupsub.git lib/editor/ousupsub
 ```
 
+#### stack
+- https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate
+```bash
+git submodule add -b master https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate.git question/behaviour/dfexplicitvaildate
+```
+- https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate
+```bash
+git submodule add -b master https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate.git question/behaviour/dfcbmexplicitvaildate
+```
+- https://github.com/maths/moodle-qbehaviour_adaptivemultipart
+```bash
+git submodule add -b master https://github.com/maths/moodle-qbehaviour_adaptivemultipart.git question/behaviour/adaptivemultipart
+```		
+- https://github.com/maths/moodle-qtype_stack
+```bash
+git submodule add -b master https://github.com/maths/moodle-qtype_stack.git question/type/stack
+```
+- https://github.com/maths/moodle-qbank_importasversion
+```bash
+git submodule add -b MOODLE_500_STABLE https://github.com/maths/moodle-qbank_importasversion.git question/bank/importasversion
+```
+
 ### ADMIN
 - https://github.com/moodleworkplace/moodle-tool_certificate
 ```bash
@@ -373,24 +395,6 @@ git submodule add -b master https://github.com/moodle-ead/atto_justify.git lib/e
 - https://github.com/gbateson/moodle-qtype_ordering
 ```bash
 git submodule add -b master https://github.com/gbateson/moodle-qtype_ordering.git question/type/ordering
-```
-## stack - TODO!
-- https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate
-```bash
-git submodule add -b master https://github.com/maths/moodle-qbehaviour_dfexplicitvaildate.git question/behaviour/dfexplicitvaildate
-```
-- https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate
-```bash
-git submodule add -b master https://github.com/maths/moodle-qbehaviour_dfcbmexplicitvaildate.git question/behaviour/dfcbmexplicitvaildate
-```
-- https://github.com/maths/moodle-qbehaviour_adaptivemultipart
-```bash
-git submodule add -b master https://github.com/maths/moodle-qbehaviour_adaptivemultipart.git question/behaviour/adaptivemultipart
-```	
-	
-- https://github.com/maths/moodle-qtype_stack
-```bash
-git submodule add -b master https://github.com/maths/moodle-qtype_stack.git question/type/stack
 ```
 
 
