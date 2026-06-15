@@ -1,5 +1,5 @@
 # moodle405-plugins
-
+- https://moodledev.io/general/releases/4.5
 [![Update Submodules](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/update-submodules.yml/badge.svg)](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/update-submodules.yml)
 
 ## Moodle Update
