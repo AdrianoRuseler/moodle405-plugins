@@ -246,10 +246,6 @@
 	path = moodle/mod/vpl
 	url = https://github.com/jcrodriguez-dis/moodle-mod_vpl.git
 	branch = master
-[submodule "moodle/question/type/vplquestion"]
-	path = moodle/question/type/vplquestion
-	url = https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-qtype_vplquestion.git
-	branch = master
 [submodule "moodle/availability/condition/relativedate"]
 	path = moodle/availability/condition/relativedate
 	url = https://github.com/AdrianoRuseler/moodle-availability_relativedate.git
