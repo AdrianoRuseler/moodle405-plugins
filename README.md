@@ -211,8 +211,9 @@ git submodule add -b main https://github.com/moodleou/moodle-qtype_oumultirespon
 ```
 
 - https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-qtype_vplquestion
+- https://github.com/AdrianoRuseler/moodle-qtype_vplquestion
 ```bash
-git submodule add -b master https://gricad-gitlab.univ-grenoble-alpes.fr/moodle-plugins/moodle-qtype_vplquestion.git question/type/vplquestion
+git submodule add -b master https://github.com/AdrianoRuseler/moodle-qtype_vplquestion.git question/type/vplquestion
 ```
 - https://github.com/moodleou/moodle-qtype_combined
 ```bash
@@ -286,6 +287,11 @@ git submodule add -b MOODLE_404_STABLE https://github.com/catalyst/moodle-tool_d
 - https://github.com/moodle-an-hochschulen/moodle-tool_redis
 ```bash
 git submodule add -b MOODLE_405_STABLE https://github.com/moodle-an-hochschulen/moodle-tool_redis.git admin/tool/redis
+```
+
+- https://github.com/daniil-berg/moodle-tool_monitoring
+```bash
+git submodule add -b main https://github.com/daniil-berg/moodle-tool_monitoring.git admin/tool/monitoring
 ```
 
 ### ENROL
