@@ -2,6 +2,7 @@
 - https://moodledev.io/general/releases/4.5
   
 [![Update Submodules](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/update-submodules.yml/badge.svg)](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/update-submodules.yml)
+[![Create Release](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/release.yml/badge.svg)](https://github.com/AdrianoRuseler/moodle405-plugins/actions/workflows/release.yml)
 
 ## Moodle Update
 ```bash
