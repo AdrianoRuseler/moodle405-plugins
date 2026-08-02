@@ -270,7 +270,3 @@
 	path = moodle/question/type/vplquestion
 	url = https://github.com/AdrianoRuseler/moodle-qtype_vplquestion.git
 	branch = master
-[submodule "moodle/filter/mermaid"]
-	path = moodle/filter/mermaid
-	url = https://github.com/SkudarTV/moodle-filter_mermaid.git
-	branch = master
